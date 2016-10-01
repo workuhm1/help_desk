@@ -1,0 +1,4 @@
+
+## Github: error cloning my private repository
+## [SOURCE] - http://stackoverflow.com/questions/3778042/github-error-cloning-my-private-repository
+   > git config --system http.sslverify false
