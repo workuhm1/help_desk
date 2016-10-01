@@ -1,0 +1,4 @@
+## add repo
+  > git remote add git_psycho https://github.com/workuhm1/psychometrika.git
+  > git remote
+  > git push -u git_psycho master
